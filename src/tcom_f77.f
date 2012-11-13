@@ -2,11 +2,11 @@
 *  TCOM - TCF calculation on MPICH
 *
 *  This software is distributed under the GNU General Public License.
-*  See the README file in the top-level sophAi directory.
+*  See the README file in the top-level directory.
 * -----------------------------------------------------------------------
 *  | File Name : tcom_f77.f
 *  | Creation Time : 2012-11-09 14:23:26
-*  | Last Modified : Mon 12 Nov 2012 01:57:58 PM CST
+*  | Last Modified : 2012-11-13 15:17:28
 * -----------------------------------------------------------------------
 
        program tcom_f77   !initialized the MPI environment

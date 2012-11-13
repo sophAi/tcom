@@ -2,11 +2,11 @@
 *  TCOM - TCF Calculation on MPICH
 *  
 *  This software is distributed under the GNU General Public License.
-*  See the README file in the top-level sophAi directory.
+*  See the README file in the top-level directory.
 * -----------------------------------------------------------------------
 *  | File Name : parallel_f77.f
 *  | Creation Time : 
-*  | Last Modified : Tue 13 Nov 2012 10:35:38 AM CST
+*  | Last Modified : 2012-11-13 15:16:37
 * -----------------------------------------------------------------------
        subroutine parallel_f77()
        implicit none
