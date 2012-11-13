@@ -1,0 +1,4 @@
+time_per_step 1       #in ps
+window_step_num -1 #-1 will use the whole data points -1 for the window
+start_point 180001  #Can only start from 1 right now
+end_point -1   #-1 will use the whole data points for the end point of source file
